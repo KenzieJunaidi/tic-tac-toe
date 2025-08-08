@@ -2,8 +2,6 @@
 
 A galactic twist on the classic Tic-Tac-Toe game, built with React. Two players take turns in a space-themed interface with subtle animations and clean styling. Simple, nostalgic, and just a little out of this world.
 
----
-
 ## ✨ Technologies
 
 - React  
@@ -11,7 +9,6 @@ A galactic twist on the classic Tic-Tac-Toe game, built with React. Two players 
 - HTML & CSS  
 - Vite  
 
----
 
 ## 🚀 Features
 
@@ -21,13 +18,11 @@ A galactic twist on the classic Tic-Tac-Toe game, built with React. Two players 
 - Win detection and reset functionality  
 - Clean component structure for scalability  
 
----
 
 ## 🌠 The Process
 
 I wanted to take a simple, familiar game and give it a fun, space-themed makeover. Most Tic-Tac-Toe projects out there felt a bit too plain, so I focused on making the interface feel more polished and playful. I started with the core React setup, then gradually added turn logic, styling, and subtle animations to bring it to life. The space theme gave me room to experiment with fonts, colors, and layout choices that feel just a bit more adventurous. It’s still a small project, but building it helped me practice the basics of React and explore design that balances simplicity with visual personality.
 
----
 
 ## 🚦 Running the Project
 
