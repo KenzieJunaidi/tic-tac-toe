@@ -7,7 +7,7 @@ A galactic twist on the classic Tic-Tac-Toe game, built with React. Two players 
 - React  
 - JavaScript  
 - HTML & CSS  
-- Vite  
+- Framer Motion  
 
 
 ## 🚀 Features
